@@ -1,3 +1,3 @@
 # Leetcode-Solutions
-Hey Geeks!
+Hey!
 Uploading the Java Solutions for the LeetCode Challenge daily.
